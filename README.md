@@ -9,35 +9,20 @@
 ## Структура проекта
 
 project-1/
-
 ├── README.md          <- Информация о проекте
-
 ├── requirements.txt   <- Зависимости
-
 ├── notebooks/
-
 │   └── habr_analysis.ipynb  <- Основной ноутбук с анализом
-
 ├── scripts/
-
 │   ├── scrape_habr.py       <- Скрипт для сбора данных с Хабра
-
 │   └── clean_data.py        <- Скрипт для очистки данных
-
 ├── data/
-
 │   ├── raw/                 <- Сырые данные
-
 │   │   └── habr_articles.csv
-
 │   └── processed/           <- Обработанные данные
-
 │       ├── habr.parquet
-
 │       └── habr.feather
-
 └── dashboard/
-
 └── app.py               <- Дэшборд на Streamlit
 
 ## Обзор существующих исследований
