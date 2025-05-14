@@ -86,7 +86,7 @@
 
 1. Клонировать репозиторий:
 
-git clone https://github.com/username/habr-analysis.git
+git clone https://github.com/matttttthewy/project1_sem2.git
 cd habr-analysis
 
 2. Установить необходимые зависимости:
